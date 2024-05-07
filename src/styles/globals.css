@@ -9,3 +9,8 @@ main {
 body {
   @apply h-screen bg-black text-white;
 }
+
+dialog {
+  max-width: 100vw;
+  max-height: 100vh;
+}
